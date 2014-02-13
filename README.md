@@ -1,14 +1,16 @@
 whatsmyip
 =========
 
-get my ip at console
+get my ip at console by type `whatsmyip`
 
 
 install
 ====
 
-1. copy `whatsmyip` and `whatsmyip.rb` to your **$PATH**
+copy `whatsmyip` and `whatsmyip.rb` to your **$PATH** or add this repo to your **$PATH**
 
-or
+example
+====
 
-2. add this repo to your **$PATH**
+> liubin:whatsmyip liubin$ whatsmyip  
+124.193.177.194
