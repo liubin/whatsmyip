@@ -3,7 +3,7 @@
 
 require 'net/http'
 
-uri = URI('http://t.nanshapo.com/ip.php')
+uri = URI('http://ipinfo.io/json')
 ip = Net::HTTP.get(uri)
 
 puts "#{ip}"
